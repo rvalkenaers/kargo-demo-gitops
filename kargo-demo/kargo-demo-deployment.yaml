@@ -13,5 +13,5 @@ spec:
         app: kargo-demo
     spec:
       containers:
-      - image: nginx:placeholder
+      - image: nginx:1.25.4
         name: nginx
